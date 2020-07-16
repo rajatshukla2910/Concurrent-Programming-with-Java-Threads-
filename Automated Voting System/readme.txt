@@ -1,4 +1,4 @@
-1. Question 4 expects a text file containing max 100 records.Each record is odered as :
+1. This question expects a text file containing max 100 records.Each record is odered as :
        0th index is time
        1st index is response (X/Y/Z)
        2nd index is Booth id (A/B/C/D/E)
